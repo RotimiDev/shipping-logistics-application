@@ -1,6 +1,6 @@
-# Movemate Mobile UI Clone
+# Movemate UI Clone
 
-This is a mobile design translation project based on a Dribbble design, built as part of a take-home assessment for a mobile engineering role.
+This is a mobile design translation project based on a Dribble design, built as part of a take-home assessment for a mobile engineering role at Moniepoint.
 
 ## 🔗 Design Source
 
@@ -8,7 +8,7 @@ This is a mobile design translation project based on a Dribbble design, built as
 
 ## 📱 Overview
 
-This project replicates the UI and animations shown in the Dribbble video. All scroll behaviors, transitions, and layout structures are implemented as accurately as possible.
+This project replicates the UI and some of the animations shown in the Dribble video. All scroll behaviors, transitions, and layout structures are implemented as accurately as possible.
 
 ## 🚀 Features
 
@@ -28,11 +28,11 @@ This project replicates the UI and animations shown in the Dribbble video. All s
 
 You can download and test the app from the link below:
 
-👉 [Download APK](https://drive.google.com/your-apk-link)
+👉 [Download APK](https://drive.google.com/file/d/1SJUHmnhX_k-cCFu54IzoIEJqUnsUQtKe/view?usp=sharing)
 
 ## 📂 Installation (Optional)
 
 Clone the repo and open in Android Studio:
 
 ```bash
-git clone https://github.com/your-username/movemate-ui-clone.git
+git clone git@github.com:RotimiDev/shipping-logistics-application.git
