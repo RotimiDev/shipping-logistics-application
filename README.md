@@ -1,4 +1,4 @@
-# Movemate UI Clone
+# Movemate Mobile App UI Clone
 
 This is a mobile design translation project based on a Dribble design, built as part of a take-home assessment for a mobile engineering role at Moniepoint.
 
