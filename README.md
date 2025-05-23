@@ -30,7 +30,7 @@ You can download and test the app from the link below:
 
 👉 [Download APK](https://drive.google.com/file/d/1SJUHmnhX_k-cCFu54IzoIEJqUnsUQtKe/view?usp=sharing)
 
-## 📂 Installation (Optional)
+## 📂 Installation
 
 Clone the repo and open in Android Studio:
 
